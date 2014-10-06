@@ -35,3 +35,8 @@ body {
     background: #f5f5f5;
     text-align: center;
 }
+
+#top-div {
+    background-color: #555555;
+    height: 0.5em;
+}

@@ -1,0 +1,8 @@
+#top-div {
+    background-color: #555555;
+}
+
+.btn:hover {
+    background-color: #555555;
+    border: 0.1em solid #555555;
+}
